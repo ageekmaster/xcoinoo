@@ -1,9 +1,9 @@
 const cacheName = "Bitplay-Xcoin-0.1";
 const contentToCache = [
     "Build/XCoin.loader.js",
-    "Build/XCoin.framework.js.br",
-    "Build/XCoin.data.br",
-    "Build/XCoin.wasm.br",
+    "Build/XCoin.framework.js",
+    "Build/XCoin.data",
+    "Build/XCoin.wasm",
     "TemplateData/style.css"
 
 ];
